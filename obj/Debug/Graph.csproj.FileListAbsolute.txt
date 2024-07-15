@@ -1,0 +1,7 @@
+D:\С#\Graph\obj\Debug\Graph.csproj.AssemblyReference.cache
+D:\С#\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+D:\С#\Graph\bin\Debug\Graph.exe.config
+D:\С#\Graph\bin\Debug\Graph.exe
+D:\С#\Graph\bin\Debug\Graph.pdb
+D:\С#\Graph\obj\Debug\Graph.exe
+D:\С#\Graph\obj\Debug\Graph.pdb
